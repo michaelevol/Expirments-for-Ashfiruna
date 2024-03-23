@@ -1,3 +1,3 @@
 ## Generative KNN by Yuchen Li
 
-* link: 
+* link: http://michaelevol.com/Expirments-for-Ashfiruna/
